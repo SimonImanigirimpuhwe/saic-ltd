@@ -16,7 +16,7 @@ export default function Landing() {
           <div className="absolute top-0 w-full h-full bg-center bg-cover"
               style={{
                 // backgroundImage: 
-              }}><img  className="absolute top-0 w-full h-full bg-center bg-cover" src={require("assets/img/hero-bg.jpg").default}/>
+              }}><img  className="absolute top-0 w-full h-full bg-center bg-cover" src={require("assets/img/hero-bg.jpg").default} alt="hero bg"/>
             <span id="blackOverlay" className="w-full h-full absolute opacity-50 bg-black"></span>
           </div>
           <div className="container relative mx-auto">

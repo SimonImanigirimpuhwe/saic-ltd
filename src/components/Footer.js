@@ -67,12 +67,12 @@ export default function Footer() {
                 <ul className="list-unstyled">
                   <li>
                     <a className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#">About Us
+                        href="#about">About Us
                     </a>
                   </li>
                   <li>
                     <a className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#"> Partners
+                        href="#partners"> Partners
                     </a>
                   </li>
                 </ul>
@@ -84,17 +84,17 @@ export default function Footer() {
                 <ul className="list-unstyled">
                   <li>
                     <a className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#">Terms & Conditions
+                        href="#terms">Terms & Conditions
                     </a>
                   </li>
                   <li>
                     <a className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#">Privacy Policy
+                        href="#privacy">Privacy Policy
                     </a>
                   </li>
                   <li>
                     <a className="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                        href="#">Contact Us
+                        href="#contact">Contact Us
                     </a>
                   </li>
                 </ul>

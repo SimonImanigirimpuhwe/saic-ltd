@@ -9,7 +9,7 @@ import Landing from "views/Landing.js";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path='/landing' component={Landing} />
+      <Route path='/' component={Landing} />
       <Redirect from='/' to='/landing' />
     </Switch>
   </BrowserRouter>,

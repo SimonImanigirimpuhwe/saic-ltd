@@ -10,7 +10,7 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path='/' component={Landing} />
-      <Redirect from='/' to='/landing' />
+      <Redirect from='/' to='/' />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

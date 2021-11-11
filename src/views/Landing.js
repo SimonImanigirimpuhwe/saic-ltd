@@ -149,7 +149,7 @@ export default function Landing() {
                       SAIC Ltd Services
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                      Not limited to garden designing, but ping us you will be satisfied.
+                      Not limited to garden designing, but also farming and planting agrictultural products. Just ping us you will be satisfied.
                     </p>
                   </blockquote>
                 </div>
@@ -198,7 +198,7 @@ export default function Landing() {
                     About SAIC Ltd
                   </h3>
                   <p className="mt-4 text-lg leading-relaxed text-gray-600">
-                    Steven Agrictulture Innovative Campany Ltd
+                    Steven Agriculture Innovative Campany Ltd is an NGO aimed at promoting agriculture and farming especially vegetables and fruits on small plot.
                   </p>
                   <ul className="list-none mt-6">
                     <li className="text-gray-600">We plant:</li>
